@@ -4,6 +4,8 @@ h1{
 	height: ;
 	padding: 10px;
 	background-color: darkgray;
+	margin: 0px;
+	margin-bottom: 10px;
 }
 h2{
 	color: darkred;
